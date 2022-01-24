@@ -42,7 +42,7 @@ nav {
     padding: 14px 16px;
 }
 .nav-links li a:hover:not.active{
-    background-color: lightseagreen;
+    background-color: lightslategrey;
 }
 .nav-links li a.active{
-    background-color: green;
+    background-color: goldenrod;
